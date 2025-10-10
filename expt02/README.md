@@ -35,14 +35,23 @@ Enter a number: 5
 You entered: 5
 
 Using for loop:
+
 Count: 1
+
 Count: 2
+
 Count: 3
+
 Count: 4
 
 
 Using while loop:
+
 Reverse Count: 4
+
 Reverse Count: 3
+
 Reverse Count: 2
+
 Reverse Count: 1
+
