@@ -1,7 +1,9 @@
 🧮 Stylish Calculator
+
 A visually appealing and fully functional calculator app built with Flutter. It features a modern keypad layout with square buttons, supports basic arithmetic operations, and displays live input and results.
 
 ✨ Features
+
 Digits 0–9
 Operators: +, -, ×, ÷, =, C
 Square-shaped, color-coded buttons
@@ -12,6 +14,7 @@ Responsive layout for mobile and web
 Replace with actual screenshots once app is running
 
 🚀 Getting Started
+
 1. Clone the Repository
 git clone https://github.com/your-username/stylish_calculator.git
 cd stylish_calculator
@@ -26,3 +29,4 @@ Then run:
 flutter pub get
 Run the App
 flutter run
+
